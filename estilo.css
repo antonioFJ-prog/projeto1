@@ -1,0 +1,7 @@
+/* CSS */
+body {
+  background-color: red; /* nome da cor */
+  /* ou usar código hex/rgb para mais controlo: */
+  /* background-color: #ff0000; */
+  /* background-color: rgb(255, 0, 0); */
+}
